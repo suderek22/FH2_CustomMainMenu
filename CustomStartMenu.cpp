@@ -409,7 +409,7 @@ FH2MOD_EXPORT int fh2mod_init(const FH2ModApi* api) {
     FH2ModInfo info{};
     info.size = sizeof(info);
     info.name = "CustomStartMenu";
-    info.version = "0.1.2";
+    info.version = "0.2.1";
     info.github_repo = "suderek22/FH2_CustomMainMenu";
     info.platform_version = "2.8.0";
     info.check_updates = 1;
